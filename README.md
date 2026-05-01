@@ -20,11 +20,14 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 - Applied Label Encoding to categorical columns
 
 
+![Heatmap](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/e7a621b22d205fa71e1f550db808740ad9d84c1f/heatmap.png)
+
+
+
+
 ## ⚙️ Feature Engineering
 - Converted categorical columns using LabelEncoder
 
-
-![Heatmap](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/e7a621b22d205fa71e1f550db808740ad9d84c1f/heatmap.png)
 ---
 
 ## 🔀 Train-Test Split
@@ -45,12 +48,11 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 - Accuracy: **82.1%**
 
 
-![image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/49a0f052f4f9dd4c89f5310d1b052d6c4dfc143c/lr.png)
+![image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/ccba59bf7202eba1f9406b42ea472d58c8c42739/lr.png)
 
-![image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-
-Dataset/blob/949c981a6c19f51dd9cc6a1dd2539fb24a2fcf5c/decision%20tree.png)
+![image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/ccba59bf7202eba1f9406b42ea472d58c8c42739/decision%20tree.png)
 
-![image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/949c981a6c19f51dd9cc6a1dd2539fb24a2fcf5c/random%20forest.png)
+![image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/ccba59bf7202eba1f9406b42ea472d58c8c42739/random%20forest.png)
 
 ---
 
@@ -62,6 +64,11 @@ Dataset/blob/949c981a6c19f51dd9cc6a1dd2539fb24a2fcf5c/decision%20tree.png)
 | Logistic Regression | 81.6% |
 | Decision Tree | 75.4% |
 | Random Forest | 82.1% |
+
+
+
+1[image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/ccba59bf7202eba1f9406b42ea472d58c8c42739/all.png)
+
 
 
 

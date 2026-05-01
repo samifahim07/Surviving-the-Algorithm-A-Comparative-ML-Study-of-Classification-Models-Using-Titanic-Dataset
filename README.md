@@ -20,7 +20,6 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 - Applied Label Encoding to categorical columns
 
 
-
 ## ⚙️ Feature Engineering
 - Converted categorical columns using LabelEncoder
 
@@ -43,6 +42,8 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 ### Random Forest ✅ (Best Model)
 - Accuracy: **82.1%**
 
+
+![image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/49a0f052f4f9dd4c89f5310d1b052d6c4dfc143c/lr.png)
 ---
 
 ## 📊 Model Comparison

@@ -23,6 +23,8 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 ## ⚙️ Feature Engineering
 - Converted categorical columns using LabelEncoder
 
+
+![Heatmap](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/e7a621b22d205fa71e1f550db808740ad9d84c1f/heatmap.png)
 ---
 
 ## 🔀 Train-Test Split

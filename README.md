@@ -4,7 +4,7 @@ The project follows a complete machine learning pipeline: starting with data loa
 Feature engineering involves label encoding of all categorical and boolean variables to prepare the dataset for scikit-learn models. The data is split into 80% training and 20% test sets with a fixed random state to ensure reproducibility. Each model is trained, evaluated, and compared using accuracy score, precision, recall, F1-score, and confusion matrix metrics.
 Results Summary:
 
-🌲 Random Forest — 82.1% accuracy (Best Model)
+🌲 Random Forest — 82.1% accuracy (Best Model)<b>
 📈 Logistic Regression — 81.6% accuracy
 🌿 Decision Tree — 75.4% accuracy
 

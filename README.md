@@ -27,7 +27,8 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 ![Survival Count](images/survival_count.png)
 
 ### Survival by Gender
-![Survival by Sex](images/survival_by_sex.png)
+![Survival by Sex](<img width="571" height="432" alt="count" src="https://github.com/user-attachments/assets/8d0822c1-e5e8-415b-a870-0552536a2a8f" />
+)
 
 ### Survival by Class
 ![Survival by Class](images/survival_by_class.png)

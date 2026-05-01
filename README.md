@@ -19,24 +19,7 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 - Filled `embark_town` using backward fill
 - Applied Label Encoding to categorical columns
 
----
 
-## 📈 Exploratory Data Analysis
-
-### Survival Count
-![Survival Count](images/survival_count.png)
-
-### Survival by Gender
-![Survival by Sex](<img width="571" height="432" alt="count" src="https://github.com/user-attachments/assets/8d0822c1-e5e8-415b-a870-0552536a2a8f" />
-)
-
-### Survival by Class
-![Survival by Class](images/survival_by_class.png)
-
-### Correlation Heatmap
-![Heatmap](images/heatmap.png)
-
----
 
 ## ⚙️ Feature Engineering
 - Converted categorical columns using LabelEncoder

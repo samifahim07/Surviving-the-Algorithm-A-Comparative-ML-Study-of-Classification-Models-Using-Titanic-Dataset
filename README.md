@@ -53,12 +53,7 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 | Decision Tree | 75.4% |
 | Random Forest | 82.1% |
 
----
 
-### Performance Chart
-![Model Comparison](images/model_comparison.png)
-
----
 
 ## 🧠 Conclusion
 - Random Forest performed best

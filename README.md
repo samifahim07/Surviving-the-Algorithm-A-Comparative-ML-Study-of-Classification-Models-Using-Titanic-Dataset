@@ -90,6 +90,7 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 ```
 ├── data/
 ├── notebooks/
+├──image/
 ├── README.md
 ```
 

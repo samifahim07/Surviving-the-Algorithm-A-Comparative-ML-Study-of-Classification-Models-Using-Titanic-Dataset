@@ -67,7 +67,7 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 
 
 
-1[image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/ccba59bf7202eba1f9406b42ea472d58c8c42739/all.png)
+![image alt](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset/blob/ccba59bf7202eba1f9406b42ea472d58c8c42739/all.png)
 
 
 

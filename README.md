@@ -79,5 +79,6 @@ This project performs an end-to-end machine learning analysis on the Titanic dat
 
 ---
 
+_**For a more detailed explanation of this project, please review the accompanying DOCX document.**_
 ## ⭐ Give a star if you like this project!
 
